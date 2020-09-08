@@ -1,4 +1,5 @@
 {
+    "name": "enigma972/symfony-testing-package",
     "type": "project",
     "license": "proprietary",
     "require": {
